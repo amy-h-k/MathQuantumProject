@@ -5,7 +5,9 @@
 layout: single
 author_profile: true
 ---
-# Superposition: The idea that something can exist in two states at once. Where did superposition come from? A look into both the **mathematical buildup** and the **cultural precedent**.
+
+
+Superposition: The idea that something can exist in two states at once. Where did superposition come from? A look into both the **mathematical buildup** and the **cultural precedent**.
 
 My motivation for this project was to display how nothing is truly isolated. Superposition does not only exist as a mathematical concept, but as a cultural notion. Math is a result of human thought, and too often we separate it from the humanities which define our societies, the context in which superposition is discovered and studied. 
 
