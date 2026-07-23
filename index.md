@@ -20,3 +20,7 @@ To grasp Schrodinger's thought experiment more effectively, check this TedTalk o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UjaAxUO6-Uw?si=Jo5dA3z5RJz1uUZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 But superposition as a concept, un-mathematically, existed long before any quantum notion. Let's turn the clock back from Bernouli. A couple thousand years or so, to Ancient Egypt. Where the underworld is presided over by the first man to have a (literal) Green thumb, Osiris. ![osiris](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Standing_Osiris.svg/500px-Standing_Osiris.svg.png)
+Osiris is the Egyptian god of the dead, lord of the underworld. Osiris was killed by his brother, Set, and put back together by his wife Isis, though he was missing one piece. Osiris is simultaneously both dead and alive. He is dead in that he cannot leave the underworld, and will never return to the land of the living, yet he is alive in that he is still ruling, and acting of his own accord. Superposition is phenomenally important in many religions, including one that we are more contemperarily familiar with. 
+![christianity](https://reflectionsonhim.com/wp-content/uploads/2015/09/holy-trinity.jpg)
+
+Jesus and God (and the Holy Spirit). The Father and the Son are often attributed as one entity, yet somehow still separated. 
