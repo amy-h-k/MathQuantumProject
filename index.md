@@ -7,11 +7,11 @@ author_profile: true
 ---
 
 
-# Superposition: The idea that something can exist in two states at once. Where did superposition come from? A look into both the mathematical buildup and the cultural precedent.
+## Superposition: The idea that something can exist in two states at once. Where did superposition come from? A look into both the mathematical buildup and the cultural precedent.
 
 My motivation for this project was to display how nothing is truly isolated. Superposition does not only exist as a mathematical concept, but as a cultural notion. Math is a result of human thought, and too often we separate it from the humanities which define our societies, the context in which superposition is discovered and studied. 
 
-## Mathematical Precedent!
+### Mathematical Precedent!
 
 Superpostion is a mathematical ordeal today, including: linear algebra, trigonometry, probability, circuitry, vectors, visualization, and experimentation.
 
@@ -26,7 +26,7 @@ One of the most well-known, practical explanations of superposition is Schroding
 To grasp Schrodinger's thought experiment more effectively, check this TedTalk out:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UjaAxUO6-Uw?si=Jo5dA3z5RJz1uUZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Cultural Precedent! 
+### Cultural Precedent! 
 
 But superposition as a concept, un-mathematically, existed long before any quantum notion. Let's turn the clock back from Bernouli. A couple thousand years or so, to Ancient Egypt. Where the underworld is presided over by the first man to have a (literal) Green thumb, Osiris. ![osiris](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Standing_Osiris.svg/500px-Standing_Osiris.svg.png)
 Osiris is the Egyptian god of the dead, lord of the underworld. Osiris was killed by his brother, Set, and put back together by his wife Isis, though he was missing one piece. Osiris is simultaneously both dead and alive. He is dead in that he cannot leave the underworld, and will never return to the land of the living, yet he is alive in that he is still ruling, and acting of his own accord. The mere existence of Osiris, who is both dead and alive, tells us something important about superposition. The idea of something existing in two states at one long precedes our mathematical capabilities to prove it. Our natural intuition towards superposition in culture exists because we are part of nature and, as Feynman says, "if you want to make a simulation of nature, you'd better make it quantum mechanical."
