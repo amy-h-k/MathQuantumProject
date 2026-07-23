@@ -7,17 +7,20 @@ author_profile: true
 ---
 
 
-Superposition: The idea that something can exist in two states at once. Where did superposition come from? A look into both the **mathematical buildup** and the **cultural precedent**.
+# Superposition: The idea that something can exist in two states at once. Where did superposition come from? A look into both the **mathematical buildup** and the **cultural precedent**.
 
 My motivation for this project was to display how nothing is truly isolated. Superposition does not only exist as a mathematical concept, but as a cultural notion. Math is a result of human thought, and too often we separate it from the humanities which define our societies, the context in which superposition is discovered and studied. 
 
 ## Mathematical Precedent!
 
+Superpostion is a mathematical ordeal today, including: linear algebra, trigonometry, probability, circuitry, vectors, visualization, and experimentation.
+
 The first person to propose superposition mathematically was Bernouli, who said that "The general motion of a vibrating system is given by a superposition of its proper vibrations." [here](https://ccrma.stanford.edu/~jos/sasp/Daniel_Bernoulli_s_Modal_Decomposition.html)
 
-Bernouli's conjecture was disagreed with at the time, by the likes of Euler and LaGrange, but was later proven by Fournier. Fournier's analyisis reverse engineered overlapping waves, using superposition to explain that they were simply combinations of sine and cosine waves, remarkably simplifying wave functions, and putting Superposition as a mathematical concept on the map with real and practical usage. 
 
-Superpostion is a mathematical ordeal today, including: linear algebra, trigonometry, probability, circuitry, vectors, visualization, and experimentation.
+Bernouli's conjecture was disagreed with at the time, by the likes of Euler and LaGrange, but was later proven by Fournier. Fournier's analyisis reverse engineered overlapping waves, using superposition to explain that they were simply combinations of sine and cosine waves, remarkably simplifying wave functions, and putting Superposition as a mathematical concept on the map with real and practical usage. We later saw superposition advanced by physicists such as Schrodinger and Dirac. Dirac, often considered one of the founders of quantum mecahnics, formalized the superposition principle, and came up with bra-ket notation, which we still use today.
+
+Erwin Schrodinger gave us both an equation and a cat. His equation, Schrodinger's Equation, (unexpected name, huh?), demonstrated how quantum states change over time, and its derivations led to some of the largest breakthroughs in wave mechanics and quantum physics as a whole science. Now, the cat.
 
 One of the most well-known, practical explanations of superposition is Schrodinger's cat. This was crucial, because, even though Schrodinger considered it to be an example of the lunacy of quantum superposition, it proved one of the key principles of superposition, which would later set the stage for all of quantum computing: A state can exist in many states at once until measurement. The box became a metaphor for the unknown and unmeasured, and the cat demonstrated the practical implications of what quantum superposition could mean. ![cat_image](https://upload.wikimedia.org/wikipedia/commons/9/91/Schrodingers_cat.svg)
 To grasp Schrodinger's thought experiment more effectively, check this TedTalk out:
